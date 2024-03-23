@@ -1,0 +1,7 @@
+  "joinbonus_upload_csv": "/system/joinbonus/upload/csv",
+  "joinbonus_list": "/system/joinbonus/list",
+  "joinbonus_resend": "/system/joinbonus/resend",
+  "joinbonus_revoke": "/system/joinbonus/delete",
+  "set_highlight_mob": "/system/user/guideline",
+  "redemption_reward_check": "/system/reward/redemption/request/response/check",
+  "send_otp": "/system/twilio/verify/number",
